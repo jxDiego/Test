@@ -6,6 +6,6 @@ Modificacion2
 modificacion en la rama dev
 
 # cambio local para generar conflicto
-=======
 #cambio en la nube para generar conflicto
+
 
