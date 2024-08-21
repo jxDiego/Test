@@ -5,9 +5,13 @@ Modificacion2
 
 modificacion en la rama dev
 
+<<<<<<< HEAD
 
 
 
 
 
 # cambio local para generar conflicto
+=======
+#cambio en la nube para generar conflicto
+>>>>>>> refs/remotes/origin/main
